@@ -1,9 +1,17 @@
 <div align="center">
-# Anchor
 
-On-device assistant that reconstructs context from your own notes, mail, and calendar — so you stop losing track of decisions you already made.
+# ⚓ Anchor
 
-`ios` `on-device-ai` `foundation-models` `app-intents` `lora` `privacy`
+### On-device assistant that reconstructs context from your own notes, mail, and calendar — so you stop losing track of decisions you already made.
+
+![Platform](https://img.shields.io/badge/platform-iOS%2026-black?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-6.0-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![On--Device](https://img.shields.io/badge/AI-100%25%20On--Device-4CAF50?style=for-the-badge)
+![Privacy](https://img.shields.io/badge/network%20calls-zero-2196F3?style=for-the-badge)
+![License](https://img.shields.io/badge/status-concept-9C27B0?style=for-the-badge)
+
+`ios` · `on-device-ai` · `foundation-models` · `app-intents` · `lora` · `privacy`
+
 </div>
 
 ---
