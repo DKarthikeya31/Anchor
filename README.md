@@ -1,4 +1,4 @@
-# Wayfinder
+# Anchor
 
 **An on-device life-orchestration agent for iOS — powered by Apple Foundation Models, App Intents, and a custom LoRA adapter.**
 
@@ -20,11 +20,11 @@ At the same time, Apple's 2026 platform introduced three capabilities that, comb
 
 ## 2. Idea / Solution
 
-**Wayfinder** takes a single natural-language request per day and turns it into real, executed actions across Calendar, Reminders, and Health — without the user touching any of those apps directly.
+**Anchor** takes a single natural-language request per day and turns it into real, executed actions across Calendar, Reminders, and Health — without the user touching any of those apps directly.
 
 **Example:**
 > User says: *"I've got deadlines Thursday and keep skipping workouts — sort me out."*
-> Wayfinder: moves a workout to Wednesday evening, blocks focus time before Thursday's meetings, and updates reminders — automatically.
+> Anchor: moves a workout to Wednesday evening, blocks focus time before Thursday's meetings, and updates reminders — automatically.
 
 Everything happens **on-device**. No request, plan, or personal data ever leaves the phone.
 
@@ -137,7 +137,7 @@ This is the first year all three are usable *together* — which is exactly why 
 
 A strong 3-5 minute demo:
 1. Show a messy week (calendar conflicts, skipped workout reminders).
-2. Say one sentence to Wayfinder.
+2. Say one sentence to Anchor.
 3. Show the before/after — calendar and reminders updated live.
 4. Show a network monitor confirming zero outbound requests.
 5. Briefly show the LoRA adapter's improvement over the base model on a tricky phrase.
