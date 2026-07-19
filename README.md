@@ -1,8 +1,10 @@
+<div align="center">
 # Anchor
 
 On-device assistant that reconstructs context from your own notes, mail, and calendar — so you stop losing track of decisions you already made.
 
 `ios` `on-device-ai` `foundation-models` `app-intents` `lora` `privacy`
+</div>
 
 ---
 
